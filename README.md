@@ -3,7 +3,7 @@
   <img alt="Jonathan Rentoft. AI engineer in Copenhagen. Building WalkieTalkey, teaching Edda to hear Danish developers, sole engineer behind CIFO at Imperium, founder of Navigent.io." src="assets/header-light.svg" width="100%">
 </picture>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://walkietalkey.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-walkietalkey-dark.svg"><img alt="walkietalkey.com" src="assets/btn-walkietalkey-light.svg" height="44"></picture></a>&nbsp;
@@ -59,8 +59,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,react,tauri,bun,py,pytorch,azure,supabase,vercel,cloudflare,astro,tailwind,java&theme=dark&perline=14">
-    <img alt="Rust, TypeScript, React, Tauri, Bun, Python, PyTorch, Azure, Supabase, Vercel, Cloudflare, Astro, Tailwind, Java" src="https://skillicons.dev/icons?i=rust,ts,react,tauri,bun,py,pytorch,azure,supabase,vercel,cloudflare,astro,tailwind,java&theme=light&perline=14">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cbun%2Cpy%2Cpytorch%2Cazure%2Csupabase%2Cvercel%2Ccloudflare%2Castro%2Ctailwind%2Cjava&theme=dark&perline=14">
+    <img alt="Rust, TypeScript, React, Tauri, Bun, Python, PyTorch, Azure, Supabase, Vercel, Cloudflare, Astro, Tailwind, Java" src="https://skillicons.dev/icons?i=rust%2Cts%2Creact%2Ctauri%2Cbun%2Cpy%2Cpytorch%2Cazure%2Csupabase%2Cvercel%2Ccloudflare%2Castro%2Ctailwind%2Cjava&theme=light&perline=14">
   </picture>
 </p>
 
